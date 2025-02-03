@@ -601,10 +601,7 @@ footer section .social-media p {
 }
 
 .mockups-section .right__mockups img {
-    max-width: 100%;
-    min-height: 200px;
-    min-width: 200px;
-    padding: 0 0;
+  display: none;
 }
 
   }
